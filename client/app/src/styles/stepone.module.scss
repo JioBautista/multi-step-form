@@ -1,0 +1,21 @@
+.container {
+    background-color: white;
+    padding: 1.5rem;
+    max-width: 350px;
+    margin-inline: auto;
+    margin-block: 1rem;
+    border-radius: 0.25rem;
+
+    p {
+        margin-bottom: 1rem;
+    }
+
+    input {
+        display: block;
+        width: 100%;
+        padding: 0.50rem;
+        margin-bottom: 1rem;
+        border-radius: 0.25rem;
+        border: 1px solid lightgrey;
+    }
+}
